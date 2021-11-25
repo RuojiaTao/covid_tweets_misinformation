@@ -1,0 +1,4 @@
+{
+    "dockerhub-id": "ruojiatao/test_tweet",
+    "build-script": "python run.py EDA misinfo top_tweets"
+}
